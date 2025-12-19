@@ -1,1 +1,1 @@
-# RISCV-FPGA
+# RISCV-FPGA lab
