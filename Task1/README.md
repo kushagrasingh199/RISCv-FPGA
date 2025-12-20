@@ -45,7 +45,24 @@ terminal novnc has been activated for a session and change in program done using
   - Integrated firmware with RTL
   - Completed simulation-based build successfully
 - No FPGA hardware tools were used.
+the hex code has been seen in the output
 
+<img width="1911" height="912" alt="make bram hex" src="https://github.com/user-attachments/assets/be2e7a73-c30c-4017-aa2b-fb283dd19f7b" />
+
+The banner pattern was added to the RISC-V firmware source using nano and executed using the Spike ISA simulator, with the output displayed on the terminal.
+
+<img width="1917" height="967" alt="FPGA output" src="https://github.com/user-attachments/assets/842f250d-d1f6-4b14-94e1-522bb2ba853b" />
+
+## Reference Repositories
+- RISC-V Reference: https://github.com/vsdip/vsd-riscv2
+- FPGA Labs: https://github.com/vsdip/vsdfpga_labs
+
+---
+
+## Proof of Execution
+Screenshots and logs are available in the `screenshots/` directory.
+
+---
 
 
 
