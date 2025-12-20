@@ -27,4 +27,7 @@ A reference RISC-V program was compiled and executed using the Spike simulator t
 - **Output:**
   ```text
   Sum from 1 to 9 is 45
+  <img width="1918" height="1076" alt="VNC command check and file run" src="https://github.com/user-attachments/assets/cb983a56-ce84-4263-b60f-1371583892dd" />
+  
+
 
