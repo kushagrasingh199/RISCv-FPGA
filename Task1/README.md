@@ -60,7 +60,7 @@ The banner pattern was added to the RISC-V firmware source using nano and execut
 ---
 
 ## Proof of Execution
-Screenshots and logs are available in the `screenshots/` directory.
+Screenshots and logs are available in the `Task1` directory.
 
 ---
 
